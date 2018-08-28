@@ -83,9 +83,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',  # 采用第三方MySQL数据库存储
         'NAME': 'itqiuzhi',
-        'USER': 'root',
-        'PASSWORD': 'han123456',
-        'HOST': '127.0.0.1',
+        'USER': '**************',
+        'PASSWORD': '******************',
+        'HOST': '********',
     }
 }
 
